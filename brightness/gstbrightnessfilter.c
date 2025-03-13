@@ -205,5 +205,5 @@ GST_PLUGIN_DEFINE(
     VERSION,
     "LGPL",
     "GStreamer",
-    "https://gstreamer.freedesktop.org/"
+    "https://github.com/lampt224321/Gstreamer"
 )
